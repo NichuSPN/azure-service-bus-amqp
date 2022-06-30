@@ -1,0 +1,17 @@
+{
+  "name": "servie-bus-amqp",
+  "version": "1.0.0",
+  "description": "AMQP implementation of service bus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishaanth S P",
+  "license": "ISC",
+  "dependencies": {
+    "amqp": "^0.2.7",
+    "amqp10": "^3.6.0",
+    "amqplib": "^0.10.0",
+    "bluebird": "^3.7.2"
+  }
+}
